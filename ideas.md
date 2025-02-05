@@ -1,27 +1,27 @@
 # Grammer
 
 ## Functions
-- Function deceleration:
-- Function call:
+- Function deceleration: '<func><nameOffunc>(arguments){ };'
+- Function call: '<nameOffunc>(arguments);'
 
 ## Loops
-- For loops:
-- While loops:
+- For loops: 'for'
+- While loops: 'while'
 
 ## Conditonals
-- if stats:
-- Else stats:
+- if stats: 'when'
+- Else stats: 'then'
 
 ## Data types
-- Integers:
-- floats:
-- strings:
-- characters:
+- Integers: 'numb'
+- floats: 'deci'
+- strings: 'text'
+- characters: 'letr'
 
 ## Bool Logic
-- Boolean logic: 'true', 'false'
-- Logical operators ( ==, =!, &&, || ): 
+- Boolean logic: 'YE', 'NO'
+- Logical operators: ( ==, =!, &&, || )
 
 ## Classes and objects
-- classes decleration: 
-- objects instatiation:
+- classes decleration: 'SocialDiv'
+- objects instatiation: 'Ranks'
