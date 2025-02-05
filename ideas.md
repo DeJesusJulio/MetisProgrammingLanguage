@@ -1,24 +1,27 @@
 # Grammer
 
 ## Functions
-- Function
+- Function deceleration:
+- Function call:
 
 ## Loops
-- For loops, and While loops
+- For loops:
+- While loops:
 
 ## Conditonals
-- if and else
+- if stats:
+- Else stats:
 
 ## Data types
-- Integers
-- floats 
-- strings
-- characters 
+- Integers:
+- floats:
+- strings:
+- characters:
 
 ## Bool Logic
-- Boolean logic ( TRUE, FALSE)
-- Logical operators ( ==, =!, &&, || )
+- Boolean logic: 'true', 'false'
+- Logical operators ( ==, =!, &&, || ): 
 
 ## Classes and objects
-- classes decleration 
-- objects instatiation
+- classes decleration: 
+- objects instatiation:
